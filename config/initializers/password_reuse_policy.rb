@@ -1,0 +1,1 @@
+PasswordReusePolicy::Configuration.default!
