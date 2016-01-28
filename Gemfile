@@ -31,7 +31,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-
+gem 'mongoid'
 gem 'devise'
 gem 'password_reuse_policy', git: "git@github.com:naveenagarwal/password_reuse_policy.git"
 
